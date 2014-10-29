@@ -1,0 +1,20 @@
+{
+  "name": "atScriptDemo",
+  "version": "1.0.0",
+  "description": "Example of using AtScript and compiling to Dart and JS/ES5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^4.0.6",
+    "gulp-rename": "^1.2.0",
+    "through2": "^0.6.3",
+    "traceur": "0.0.72"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  }
+}
